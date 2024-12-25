@@ -1,4 +1,4 @@
 # sharath
 This is my first Git Repository.
 <br>
-Author - Sharath
+Author - Sharath M
